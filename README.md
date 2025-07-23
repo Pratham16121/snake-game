@@ -26,4 +26,8 @@ pip install pygame numpy
 - Score tracking
 - Game over detection
 
+## Video Recording
+https://github.com/user-attachments/assets/d3ff48c7-bb7d-46f9-8c23-69e2a3ad94dc
+
+
 Enjoy playing!
